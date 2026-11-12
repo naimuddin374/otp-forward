@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="navy">#12344D</color>
+    <color name="ink">#1A2330</color>
+    <color name="muted">#5C6B7A</color>
+    <color name="screen">#F3F5F7</color>
+    <color name="white">#FFFFFF</color>
+    <color name="status_neutral">#E7EEF3</color>
+    <color name="status_ready">#E3F3E8</color>
+    <color name="status_paused">#E8EDF1</color>
+    <color name="status_warn">#F8EFD9</color>
+    <color name="status_error">#F8E4E4</color>
+</resources>

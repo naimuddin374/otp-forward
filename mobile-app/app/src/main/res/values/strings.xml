@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">SMS Forward</string>
+    <string name="screen_subtitle">Matching texts go to your bot.</string>
+    <string name="section_phone">This phone</string>
+    <string name="section_paste">Paste an SMS</string>
+    <string name="allow_sms">Allow SMS</string>
+    <string name="start_forwarding">Start</string>
+    <string name="stop_forwarding">Stop</string>
+    <string name="status_missing_config">The bot token or chat id is missing. Add both to local.properties and build the app again.</string>
+    <string name="status_need_sms">Allow SMS. Matching texts are then sent to your Telegram bot while this app is closed.</string>
+    <string name="status_paused">Forwarding is paused while this screen is open. Leaving the app turns it back on.</string>
+    <string name="status_ready">Forwarding is on. The next matching text goes to your Telegram bot.</string>
+    <string name="paste_hint">Paste the full SMS</string>
+    <string name="send_pasted">Send to bot</string>
+    <string name="status_paste_empty">Paste the SMS first.</string>
+    <string name="status_sent">Sent to the bot.</string>
+    <string name="status_send_failed">The bot did not accept that message. Check the connection and try again.</string>
+</resources>

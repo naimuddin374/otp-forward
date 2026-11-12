@@ -1,0 +1,10 @@
+app/local.properties
+app/.gradle/
+app/.kotlin/
+app/**/build/
+app/.idea/
+mac/.env
+mac/.session
+mac/node_modules/
+mobile-app/sms-forward.apk
+.DS_Store
